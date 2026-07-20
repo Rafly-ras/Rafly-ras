@@ -1,10 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Rafly%20Aditya%20Saputra%20!%20%F0%9F%91%8B&fontSize=30&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Software%20Engineer&descAlignY=58&descAlign=62"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Rafly%20Aditya%20Saputra%20!%20%F0%9F%91%8B&fontSize=30&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Software%20Engineer&descAlignY=58&descAlign=62" width="100%" />
 </div>
 
-<h3 align="center">Engineering software that solves real-world problems. 🚀 
-    <br>I enjoy solving complex problems... 💻</br>
-</h3>
+<h3 align="center">Engineering software that solves real-world problems. 🚀<br>I enjoy solving complex problems... 💻</h3>
 
 <div align="center">
   <a href="https://instagram.com/raflyadityas" target="_blank">
@@ -21,7 +19,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=750&lines=Building%20Modern%20Web%20Applications;Developing%20Enterprise%20ERP%20Solutions;React.js%20%E2%80%A2%20Laravel%20%E2%80%A2%20Odoo%20%E2%80%A2%20Kotlin%20%E2%80%A2%20Python%20%E2%80%A2%20Next.js%20%E2%80%A2%20Vue.js;Building%20Software%2C%20That%20Matters" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=750&lines=Building%20Modern%20Web%20Applications;Developing%20Enterprise%20ERP%20Solutions;React.js%20%E2%80%A2%20Laravel%20%E2%80%A2%20Python;Next.js%20%E2%80%A2%20Vue.js%20%E2%80%A2%20Odoo;Building%20Software%2C%20That%20Matters" alt="Typing SVG" />
 </div>
 
 ---
@@ -86,7 +84,7 @@ Building mobile applications with native and hybrid technologies while integrati
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafly-ras&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rafly-ras&theme=github_dark&hide_border=true&show_icons=true" alt="GitHub Stats" height="195" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafly-ras&theme=github_dark&hide_border=true&layout=compact" alt="Top Languages" height="195" />
 </div>
 
@@ -102,5 +100,5 @@ Building mobile applications with native and hybrid technologies while integrati
 <h3 align="center"><i>Code with purpose. Build with passion.</i> 💫</h3>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
