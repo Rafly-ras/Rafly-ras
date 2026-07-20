@@ -84,8 +84,8 @@ Building mobile applications with native and hybrid technologies while integrati
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafly-ras&theme=github_dark&hide_border=true&show_icons=true" alt="GitHub Stats" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafly-ras&theme=github_dark&hide_border=true&layout=compact" alt="Top Languages" height="195" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rafly-ras&theme=github_dark&hide_border=true&show_icons=true" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rafly-ras&theme=github_dark&hide_border=true&layout=compact" alt="Top Languages" height="195" />
 </div>
 
 ---
