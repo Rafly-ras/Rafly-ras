@@ -21,7 +21,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=750&lines=Building+Modern+Web+Applications;Developing+Enterprise+ERP+Solutions;React.js+•+Laravel+•+Odoo+•+Kotlin+•+Python+•+Next.js+•+Vue.js;Building+Software,+That+Matters" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=750&lines=Building%20Modern%20Web%20Applications;Developing%20Enterprise%20ERP%20Solutions;React.js%20%E2%80%A2%20Laravel%20%E2%80%A2%20Odoo%20%E2%80%A2%20Kotlin%20%E2%80%A2%20Python%20%E2%80%A2%20Next.js%20%E2%80%A2%20Vue.js;Building%20Software%2C%20That%20Matters" alt="Typing SVG" />
 </div>
 
 ---
